@@ -164,6 +164,9 @@ div.row{
 
 	border: 0;
 }
+div.card{
+height:675px;
+}
 
 .card > img {
 	margin-bottom: 0.75rem;
