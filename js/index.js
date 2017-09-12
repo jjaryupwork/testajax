@@ -14,7 +14,7 @@ jQuery(document).ready(function($){
 
             .done(function(html){
 
-                $( "#card" ).remove();
+                $( ".card" ).remove();
                 $("#page").empty().append(html);
 
             })
