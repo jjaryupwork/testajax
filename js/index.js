@@ -6,7 +6,7 @@ jQuery(document).ready(function(){
     });
 
 jQuery(document).ready(function($){
-        $(document).on('click', 'a', function() {  
+        $(document).on('click', 'a', function() {
         link=$(this).attr("href");
         $.ajax({
             url: link
