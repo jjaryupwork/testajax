@@ -222,4 +222,6 @@ button{
     right: 98%;
     bottom: 40vh;
 }
-
+#success_message{ 
+display: none;
+}
