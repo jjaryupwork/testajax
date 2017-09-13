@@ -225,6 +225,6 @@ button{
 #success_message{ 
 display: none;
 }
-div.input-group {
+div.inputGroupContainer {
     margin: 0 auto;
 }
