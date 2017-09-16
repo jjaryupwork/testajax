@@ -41,7 +41,7 @@ nav{
 .nav a:hover{
     color: red;
 }
-h3.split.menuheader{
+h1.split.menuheader{
     border-top:red 2px solid;
     background-color: #2c3739;
     height: 40px;
@@ -53,7 +53,7 @@ div.header.clearfix{
     width: 100%;
 
 }
-h3.split span.line {
+h1.split span.line {
     position: absolute;
     left: 0;
     top: 0;
@@ -62,7 +62,7 @@ h3.split span.line {
     overflow: hidden;
     text-align: center;
 }
-h3.split {
+h1.split {
     font-size: 2em;
     position: relative;
     width: 100%;
@@ -70,7 +70,7 @@ h3.split {
     height: 1em;
     text-align: center;
 }
-h3.split:before {
+h1.split:before {
     content: attr(title);
     left: 0;
     top: 0;
