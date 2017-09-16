@@ -1,10 +1,7 @@
-jQuery(document).ready(function(){
-    $(document).on('click', 'button', function() {
+ $(document).on('click', 'button', function() {
             $(this).next("span").toggleClass("hidden");
         });
-    });
-jQuery(document).ready(function(){
-        $(document).on('click', 'a', function() {
+ $(document).on('click', 'a', function() {
         link=$(this).attr("href");
         $.ajax({
             url: link
@@ -21,4 +18,3 @@ jQuery(document).ready(function(){
             });
         return false;
     });
-});
