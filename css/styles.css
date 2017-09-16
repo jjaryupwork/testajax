@@ -114,7 +114,7 @@ span.line{
 .jumbotron {
     margin-top: 40px;
     display: block;
-    background: url(img1.jpg) no-repeat bottom;
+    background: url(./Images/img1.jpg) no-repeat bottom;
     background-size: cover;
     text-align: center;
     border-left:2px #2c3739 solid;
