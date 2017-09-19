@@ -169,15 +169,15 @@ button{
     width: 7rem;
     height: 7rem;
     position: absolute;
-    left: 65%;
-    bottom: 40vh;
+    left: 50%;
+    top: 30%;
 }
 .arrow-prev{
     width: 7rem;
     height: 7rem;
     position: absolute;
-    right: 65%;
-    bottom: 40vh;
+    right: 50%;
+    top: 30%;
 }
 div.inputGroupContainer,div.col-md-4 {
     margin: 0 auto;
