@@ -179,9 +179,6 @@ button{
     right: 65%;
     bottom: 40vh;
 }
-#success_message{
-    display: none;
-}
 div.inputGroupContainer,div.col-md-4 {
     margin: 0 auto;
 }
